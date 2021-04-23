@@ -4,6 +4,6 @@
   <script src="../data/functions.js" type="text/javascript"></script>
 </head>
 <body>
-  <span id="output"></span>
+  <div id="output"></div>
 </body>
 </html>
