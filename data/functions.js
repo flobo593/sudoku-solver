@@ -20,4 +20,4 @@ function line(input, lineNr) {
   return storageLine;
 }
 
-isIn = ["", "", 2, 5, 1, 7, 3, "", 8];
+var isIn = ["", "", 2, 5, 1, 7, 3, "", 8];
