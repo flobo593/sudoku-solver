@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html onload="ausgabe()">
+<html>
 <head>
   <script src="../data/functions.js" type="text/javascript"></script>
   <script type="text/javascript">
@@ -10,6 +10,6 @@
   </script>
 </head>
 <body>
-  <div id="output"></div>
+  <div width="50%" height="25%" background-color="orange" onclick="ausgabe()" id="output"></div>
 </body>
 </html>
